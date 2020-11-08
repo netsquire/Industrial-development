@@ -7,3 +7,12 @@ Problems
   
 Solutions
 Measures 
+
+Default services
+  - Configuration Service
+  - Logging Service
+  - Business Services
+  
+Rules
+
+Practices
