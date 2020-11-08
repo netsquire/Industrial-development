@@ -1,13 +1,6 @@
 # Industrial Development (system / software)
 Software development / system maintaince / best practices / arrangement / HowTo
 
-Problems
-  - Inconsistence 
-  - Various steps to every day operations
-  
-Solutions
-Measures 
-
 Default services
   - Configuration Service
   - Logging Service
@@ -16,3 +9,20 @@ Default services
 Rules
 
 Practices
+
+Consistensy Framework
+  - Consistence in running
+  - access to external services
+  - ... in testing
+  - ... in logging
+  - ... in trouble solving
+  - in various business operation / maintance
+  
+Problems to avoid/prevent
+  - Inconsistence 
+  - Various steps to every day operations
+  
+Solutions
+Measures 
+
+
